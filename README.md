@@ -6,15 +6,15 @@ You can open a new issue for:
 * Bugs
 * Improvements/Tips/Typos
 
-For questions in general see: [WordPress plugin support][link plugin support].
+> :heavy_exclamation_mark: For questions in general see: [WordPress plugin support][link plugin support].
 
----
+
 
 Plugin Website: [adminoptionspages.com][link home]\
 Plugin Documentation: [docs.adminoptionspages.com][link docs]\
 WordPress.org Plugin Page: [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
 
-___
+
 
 
 
