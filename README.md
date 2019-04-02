@@ -24,9 +24,9 @@ ___
 
 ## Links
 
-Plugin Website: [adminoptionspages.com][link home]\
-Plugin Documentation: [docs.adminoptionspages.com][link docs]\
-WordPress.org Plugin Page: [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
+Plugin website: [adminoptionspages.com][link home]\
+Plugin documentation: [docs.adminoptionspages.com][link docs]\
+Plugin Page wordpress.org : [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
 
 
 
