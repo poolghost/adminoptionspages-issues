@@ -22,6 +22,8 @@ You can open a new issue for:
 
 ___
 
+## Links
+
 Plugin Website: [adminoptionspages.com][link home]\
 Plugin Documentation: [docs.adminoptionspages.com][link docs]\
 WordPress.org Plugin Page: [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
