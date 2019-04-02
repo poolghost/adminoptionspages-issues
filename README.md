@@ -1,4 +1,10 @@
-[![Logo Admin Options Pages][img logo]][link home]
+<p align="center">
+
+    [![Logo Admin Options Pages][img logo]][link home]
+
+  <!-- <img width="300" src="http://www.fillmurray.com/460/300"> -->
+</p>
+
 
 [![downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?&color=blue)][link plugin wp.org]
 
