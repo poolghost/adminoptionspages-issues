@@ -18,7 +18,7 @@ You can open a new issue for:
 * Report Bugs
 * Improvements/Tips/Typos
 
-> For questions in general see: [WordPress plugin support][link plugin support].
+> For 'how to' questions: [WordPress plugin support][link plugin support].
 
 ___
 
