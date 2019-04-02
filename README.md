@@ -2,8 +2,7 @@
 
 For questions in general see: [WordPress plugin support][link plugin support].
 
-Plugin Homepage: [adminoptionspages.com][link home]
-
+Plugin Homepage: [adminoptionspages.com][link home]\
 Plugin Documentation: [docs.adminoptionspages.com][link docs]
 
 
