@@ -2,7 +2,7 @@
 
 # Admin Options Pages - Issues
 
-[![plugin downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?color=blue)][link plugin wp.org]
+[![plugin downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?label=plugin downloads&color=blue)][link plugin wp.org]
 
 
 You can open a new issue for:
