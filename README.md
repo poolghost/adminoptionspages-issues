@@ -8,6 +8,8 @@
 
 [![downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?&color=blue)][link plugin wp.org]
 
+___
+
 # Admin Options Pages - Issues
 
 
@@ -15,8 +17,6 @@
 You can open a new issue for:
 * Report Bugs
 * Improvements/Tips/Typos
-
-___
 
 > For questions in general see: [WordPress plugin support][link plugin support].
 
