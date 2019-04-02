@@ -1,8 +1,8 @@
 
 
-<# p align="center">
+# <p align="center">
     [![Logo Admin Options Pages][img logo]][link home]
-<# /p>
+# </p>
 
 
 [![downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?&color=blue)][link plugin wp.org]
