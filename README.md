@@ -5,8 +5,8 @@
   <img width="300" src="https://github.com/poolghost/adminoptionspages-issues/blob/master/assets/aop-logo.svg">
 </p> -->
 
-
-[![downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?&color=blue)][link plugin wp.org]
+<!--
+[![downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg?&color=blue)][link plugin wp.org] -->
 
 ___
 
