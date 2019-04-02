@@ -1,5 +1,10 @@
 # Admin Options Pages - Issues
 
+You can open a new issue for:
+* Bugs
+* Typos
+* Improvements/Tips
+
 For questions in general see: [WordPress plugin support][link plugin support].
 
 ---
@@ -9,6 +14,8 @@ Plugin Documentation: [docs.adminoptionspages.com][link docs]\
 WordPress.org Plugin Page: [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
 
 ___
+
+
 
 
 [link home]: https://adminoptionspages.com
