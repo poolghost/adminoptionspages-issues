@@ -2,7 +2,7 @@
 <!-- [![Logo Admin Options Pages][img logo]][link home] -->
 
 <div align="center">
-  <img width="300" src="https://github.com/poolghost/adminoptionspages-issues/blob/master/assets/aop-logo.svg">
+  <img src="https://github.com/poolghost/adminoptionspages-issues/blob/master/assets/aop-logo.svg">
 </div>
 
 <!--
