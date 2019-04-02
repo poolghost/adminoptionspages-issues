@@ -15,7 +15,7 @@ ___
 
 
 You can open a new issue for:
-* Report Bugs
+* Bugs
 * Improvements/Tips/Typos
 
 > For 'how to' questions: [WordPress plugin support][link plugin support].
