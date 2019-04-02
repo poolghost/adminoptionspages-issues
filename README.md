@@ -1,8 +1,8 @@
+
+<!-- [![Logo Admin Options Pages][img logo]][link home] -->
+
 <p align="center">
-
-    [![Logo Admin Options Pages][img logo]][link home]
-
-  <!-- <img width="300" src="http://www.fillmurray.com/460/300"> -->
+  <img width="300" src="https://github.com/poolghost/adminoptionspages-issues/blob/master/assets/aop-logo.svg">
 </p>
 
 
