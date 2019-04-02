@@ -1,6 +1,9 @@
-![Logo Admin Options Pages][img logo]
+[![Logo Admin Options Pages][img logo]][link home]
 
 # Admin Options Pages - Issues
+
+[![downloads](https://img.shields.io/wordpress/plugin/dt/:admin-options-pages.svg)][link plugin wp.org]
+
 
 You can open a new issue for:
 * Report Bugs
