@@ -26,7 +26,7 @@ ___
 
 Plugin website: [adminoptionspages.com][link home]\
 Plugin documentation: [docs.adminoptionspages.com][link docs]\
-Plugin Page wordpress.org : [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
+Plugin page wordpress.org : [wordpress.org/plugins/admin-options-pages/][link plugin wp.org]
 
 
 
