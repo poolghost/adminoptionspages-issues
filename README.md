@@ -3,10 +3,12 @@
 # Admin Options Pages - Issues
 
 You can open a new issue for:
-* Bugs
+* Report Bugs
 * Improvements/Tips/Typos
 
-> :heavy_exclamation_mark: For questions in general see: [WordPress plugin support][link plugin support].
+___
+
+> For questions in general see: [WordPress plugin support][link plugin support].
 
 ___
 
