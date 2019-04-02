@@ -1,9 +1,10 @@
+![Logo Admin Options Pages][img logo]
+
 # Admin Options Pages - Issues
 
 You can open a new issue for:
 * Bugs
-* Typos
-* Improvements/Tips
+* Improvements/Tips/Typos
 
 For questions in general see: [WordPress plugin support][link plugin support].
 
@@ -22,3 +23,4 @@ ___
 [link docs]: https://docs.adminoptionspages.com
 [link plugin support]: https://wordpress.org/support/plugin/admin-options-pages/
 [link plugin wp.org]: https://wordpress.org/plugins/admin-options-pages/
+[img logo]: ./assets/aop-logo.svg
