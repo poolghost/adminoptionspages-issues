@@ -8,7 +8,7 @@ You can open a new issue for:
 
 > :heavy_exclamation_mark: For questions in general see: [WordPress plugin support][link plugin support].
 
-
+___
 
 Plugin Website: [adminoptionspages.com][link home]\
 Plugin Documentation: [docs.adminoptionspages.com][link docs]\
