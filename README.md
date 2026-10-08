@@ -13,7 +13,9 @@
 
 # Admin Options Pages: issue tracker
 
-This is where you report bugs and suggest improvements for [Admin Options Pages](https://wordpress.org/plugins/admin-options-pages/), the WordPress plugin to create your own options pages, menus and fields without code.
+[Admin Options Pages](https://wordpress.org/plugins/admin-options-pages/) is a beautifully designed WordPress plugin, which makes it incredibly easy to create options menus, pages and fields.
+
+This is where you report bugs and suggest improvements.
 
 The source code of the plugin is not in this repository. It is only used for issues.
 
