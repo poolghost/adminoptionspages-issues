@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest a new feature or an improvement.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your idea. Explaining *why* you need it helps more than a finished solution.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What do you want to achieve?
+      description: Describe the situation and what is missing or hard now.
+      placeholder: My client has the Shop Manager role and cannot open the options page, because …
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: How would you like it to work?
+      description: Your idea of a solution, if you have one.
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Workarounds you tried
+      description: Other ways you solved it now, with code or another plugin.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the open and closed issues and this is not suggested yet.
+          required: true

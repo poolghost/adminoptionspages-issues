@@ -1,0 +1,93 @@
+name: Bug report
+description: Something in Admin Options Pages does not work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. The more precise the steps, the faster it can be fixed.
+
+        **A security issue?** Do not report it here. See the [security policy](https://github.com/poolghost/adminoptionspages-issues/blob/master/SECURITY.md).
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A short description of the problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can the problem be seen on a clean site? Mention the field type and its settings if they matter.
+      placeholder: |
+        1. Create an options page with a Text field
+        2. Enter `Tom & Jerry` and click Save
+        3. See the message …
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+
+  - type: textarea
+    id: errors
+    attributes:
+      label: Error messages or screenshots
+      description: Messages on screen, errors in the browser console, or lines from `wp-content/debug.log`. You can paste screenshots here.
+
+  - type: input
+    id: plugin-version
+    attributes:
+      label: Admin Options Pages version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: pro
+    attributes:
+      label: Is Admin Options Pages Pro active?
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+
+  - type: input
+    id: wp-version
+    attributes:
+      label: WordPress version
+      placeholder: "6.9"
+    validations:
+      required: true
+
+  - type: input
+    id: php-version
+    attributes:
+      label: PHP version
+      placeholder: "8.3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Other plugins and theme
+      description: Page builders, caching or security plugins and the theme can matter. Does the problem stay when the other plugins are deactivated?
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the open and closed issues and this bug is not reported yet.
+          required: true
+        - label: I use the latest version of Admin Options Pages.
+          required: true

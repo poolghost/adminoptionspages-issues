@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or "how to"
+    url: https://wordpress.org/support/plugin/admin-options-pages/
+    about: Ask how to do something in the WordPress.org support forum.
+  - name: Documentation
+    url: https://adminoptionspages.com/docs
+    about: Read how options pages, menus and field types work.
+  - name: Security issue
+    url: https://github.com/poolghost/adminoptionspages-issues/security/advisories/new
+    about: Report a vulnerability privately. Never in a public issue.
